@@ -1,6 +1,8 @@
-# databaile
+# DataBaile
 
-A databaile é um banco de dados com informaçoes sobre os bailes que acontecem nas favelas da Regiao Metropolitana do Rio de Janeiro.
+A DataBaile é um banco de dados com informaçoes sobre os bailes que acontecem nas favelas da Regiao Metropolitana do Rio de Janeiro.
+
+##### Este é um trabalho em progresso, e pode conter erros.
 
 ### Citaçao
 
